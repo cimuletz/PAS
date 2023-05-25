@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Floor1
+  - Blocking
+  - Item
+  - Actor
+  - Bullet
+  - Proximity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4174662847
+    locked: 0
+  - name: Wall
+    uniqueID: 3025319283
+    locked: 0
+  - name: Item
+    uniqueID: 3360603495
+    locked: 0
+  - name: Actor
+    uniqueID: 1197640299
+    locked: 0
+  - name: Weapon
+    uniqueID: 2303616987
+    locked: 0
+  - name: Bullet
+    uniqueID: 1703477941
+    locked: 0
+  - name: Shadows
+    uniqueID: 2511343333
+    locked: 0
+  - name: PopupText
+    uniqueID: 2820137445
+    locked: 0
